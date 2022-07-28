@@ -2,6 +2,7 @@ body {
     background: #e96443;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #904e95, #e96443);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #904e95, #e96443); 
+    margin: 5px;
 }
 .btn.btn-raised.btn-primary {
     background-color: #00838F!important;
@@ -123,4 +124,12 @@ body {
     padding-top: 200px;
     font-weight: 700;
     font-size: 20px;
+  }
+
+  .flex {
+    margin: 5px 5px;
+  }
+
+  #resultado{
+    margin: 10px 10px;
   }
